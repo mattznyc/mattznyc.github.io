@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Matt Zimmerman,Post 1"
 date: 2019-08-18
 ---

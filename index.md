@@ -12,3 +12,8 @@ Here are some interesting projects I have worked on
 * Laucnhed Springer's first eBook and ejournal platform Springer Publishng Connect
 * Review Copy request automation
 * Ecommerce import
+
+## At John Wiley and Sons
+## At IEEE
+## At UTSW Medical Center Library
+## At New York University

@@ -17,7 +17,7 @@ Here are some interesting projects I have worked on
 
 **At John Wiley and Sons**
 * Launched the first "Society Hub" with publishiing partner the [American Geophysical Union](https://agupubs.onlinelibrary.wiley.com/) 
-* 
+* Piloted a project integrating FigShare, Dryad, and other data repositories into Wiley author and publishing workflows
 
 **At IEEE**
 * Author disambiguaion

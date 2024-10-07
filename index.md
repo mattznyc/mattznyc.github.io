@@ -2,8 +2,8 @@
 layout: default
 title: Matt Zimmerman, Digital Publishing
 ---
+# Matt Zimmerman
 
-	<h1>Matt Zimmerman</h1>
 <p>My name is Matt Zimmerman. I am an independent product managment consultant with a specialiy in publishing platforms.</p>
 <p>Here are some interesting projects I have worked on:</p>
 <h2>At The <a href="https://www.springerpub.com">Springer Publishing Company</a></h2>

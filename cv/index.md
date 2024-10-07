@@ -68,9 +68,11 @@ Center, I led a team in developing and supporting a digital library infrastructu
 directed the evaluation and selection of new technology for the library’s electronic resources, and
 oversaw the daily operations of various systems including the library website, electronic journals
 system, and interlibrary loan system.
-##Key Skills
+
+## Key Skills
 Software Project Management | Agile Methodologies | User Experience | Digital Product
 Development | JIRA | XML | XSLT | APIs | Presentations
-##Education
-B.A. English, La Salle University, 1993
+
+## Education
+B.A. English, La Salle University, 1993  
 M.A. English, University of Georgia, 1996

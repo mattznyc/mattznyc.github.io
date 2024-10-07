@@ -16,7 +16,7 @@ generation.
 I work with cross-functional teams in managing the complete product development life cycle
 (sales, marketing, user research, user experience, design, development, QA, devops, and system
 support)
-**Experience**
+## Experience
 **Springer Publishing Company, New York, NY**
 **Online Platform Director**
 **9/2019 to 12/2022**

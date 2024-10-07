@@ -41,31 +41,36 @@ various user groups.
 
 **John Wiley & Sons, Hoboken, NJ**  
 **Senior Product Manager, Web Publishing Platforms**  
-***3/2014 to 9/2016***
+**3/2014 to 9/2016**
 
 In my role as Senior Product Manager at John Wiley & Sons, I led strategic initiatives to enhance
 the Wiley Online Library platform. By maintaining and executing the product roadmap, I played a
 key role in driving over $800 million in annual revenue. Additionally, I successfully deployed the
 Society Hub platform to meet society partners' needs and managed integration strategies for
-funder mandated data repositories, contributing to the platform's growth and success.**Product Owner, IEEE Xplore**
-**IEEE (The Institute of Electrical and Electronics Engineers), Piscataway, NJ**
-***8/2012 to 3/2014***
+funder mandated data repositories, contributing to the platform's growth and success.
+
+**Product Owner, IEEE Xplore**  
+**IEEE (The Institute of Electrical and Electronics Engineers), Piscataway, NJ**  
+**8/2012 to 3/2014**
+
 In my role as a Product Manager at IEEE, I managed enhancements for the Xplore Digital
 Library, implementing key features like author search and open access journals. I successfully
 presented product updates at major conferences and corporate meetings, driving adoption and
 showcasing the platform's value. Additionally, I led the launch of innovative features like Virtual
 Journals and patent citations, contributing to the platform's continuous evolution and success.
-**UT Southwestern Medical Center. Dallas, TX**
-***Manager, Digital Services and Technology Planning***
-***6/2009 to 9/2011***
+
+**UT Southwestern Medical Center. Dallas, TX**  
+**Manager, Digital Services and Technology Planning**  
+**6/2009 to 9/2011**
+
 In my role as Manager of Digital Services and Technology Planning at UT Southwestern Medical
 Center, I led a team in developing and supporting a digital library infrastructure for 15,000 users. I
 directed the evaluation and selection of new technology for the library’s electronic resources, and
 oversaw the daily operations of various systems including the library website, electronic journals
 system, and interlibrary loan system.
-**Key Skills**
+##Key Skills
 Software Project Management | Agile Methodologies | User Experience | Digital Product
 Development | JIRA | XML | XSLT | APIs | Presentations
-**Education**
+##Education
 B.A. English, La Salle University, 1993
 M.A. English, University of Georgia, 1996

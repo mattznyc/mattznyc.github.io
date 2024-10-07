@@ -28,14 +28,14 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.3em;
-    line-height: 1.3em;
+    font-family:'Georgia' 'Serif';
+    line-height: 1.6em;
     color: #333;
 }
 
 ul {
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-family:'Georgia' 'Serif';
     line-height: 1.6em;
     color: #333;

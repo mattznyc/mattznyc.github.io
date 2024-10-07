@@ -4,16 +4,10 @@ title: Matt Zimmerman, Digital Publishing
 ---
 # Matt Zimmerman
 
-<p>My name is Matt Zimmerman. I am an independent product managment consultant with a specialiy in publishing platforms.</p>
-<p>Here are some interesting projects I have worked on:</p>
-<h2>At The <a href="https://www.springerpub.com">Springer Publishing Company</a></h2>
-<p>
-	<ul>
-		<li> Laucnhed Springer's first eBook and ejournal platform <a href="https"//connect.springerpub.com">Springer Publishng Connect</a></li>
-		<li>Along with <a href="https://dylanwooters.com/">Dylan Wooters</a> developed an API to do hourly imports of customer transaction information
-		from four ecommerce platforms into SalesForce. This replaced a weekly manual process</li>
-	
-	
-	
-	</ul>
-</p></p>
+My name is Matt Zimmerman. I am an independent product managment consultant with a specialiy in publishing platforms
+
+Here are some interesting projects I have worked on:</p>
+## At The Springer Publishing Company
+
+- Laucnhed Springer's first eBook and ejournal platform <a href="https"//connect.springerpub.com">Springer Publishng Connect
+- Along with Dylan Wooters developed an API to do hourly imports of customer transaction informatio from four ecommerce platforms into SalesForce. This replaced a weekly manual process

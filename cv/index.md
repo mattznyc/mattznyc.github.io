@@ -17,9 +17,10 @@ I work with cross-functional teams in managing the complete product development 
 (sales, marketing, user research, user experience, design, development, QA, devops, and system
 support)
 ## Experience
-**Springer Publishing Company, New York, NY**
-**Online Platform Director**
+**Springer Publishing Company, New York, NY**  
+**Online Platform Director**  
 **9/2019 to 12/2022**
+
 In my role as Online Platform Director at Springer Publishing Company, I oversaw the operations
 and development of the eBook platform. I conducted user interviews to identify PDF as the
 preferred format, saving costs and avoiding the implementation of a costly eBook reader

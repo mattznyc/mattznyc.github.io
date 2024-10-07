@@ -9,4 +9,5 @@ My name is Matt Zimmerman. I am an independent product managment consultant with
 Here are some interesting projects I have worked on
 ## At The Springer Publishing Company
 
-- Laucnhed Springer's first eBook and ejournal platform Springer Publishng Connect
+* Laucnhed Springer's first eBook and ejournal platform Springer Publishng Connect
+* Review Copy request

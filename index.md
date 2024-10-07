@@ -4,7 +4,7 @@ title: Matt Zimmerman, Digital Publishing
 ---
 # Matt Zimmerman
 
-Hi. I'm Matt Zimmerman. I am a product manager wit experience in web-publishing platforms, APIs, and XML.
+Hi. I'm Matt Zimmerman. I am a product manager with experience in web-publishing platforms, APIs, and XML.
 
 Here are some interesting projects I have worked on
 ## At The Springer Publishing Company

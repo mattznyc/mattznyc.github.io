@@ -28,17 +28,20 @@ interface. Additionally, I developed a system for sales representatives to provi
 access to eBooks, eliminating the need to send print textbooks via mail, saving time and costs. I
 also streamlined the eCommerce data import process, resulting in doubled marketing email open
 and click rates.
-**Online Platform Manager**
+**Online Platform Manager**  
 **9/2016 to 9/2019**
+
 In my role as an Online Platform Manager at Springer Publishing Company, I successfully
 launched Springer Publishing Connect, a platform for eBooks and eJournals, driving revenue
 growth and enhancing accessibility for instructors, students, and clinicians. I managed the
 conversion of thousands of articles and books into SEO compliant XML, ensuring a smooth site
 launch. Additionally, I conducted user testing and interviews to optimize the user experience for
 various user groups.
-**John Wiley & Sons, Hoboken, NJ**
-**Senior Product Manager, Web Publishing Platforms**
+
+**John Wiley & Sons, Hoboken, NJ**  
+**Senior Product Manager, Web Publishing Platforms**  
 ***3/2014 to 9/2016***
+
 In my role as Senior Product Manager at John Wiley & Sons, I led strategic initiatives to enhance
 the Wiley Online Library platform. By maintaining and executing the product roadmap, I played a
 key role in driving over $800 million in annual revenue. Additionally, I successfully deployed the

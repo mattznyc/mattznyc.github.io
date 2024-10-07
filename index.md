@@ -20,8 +20,8 @@ Here are some interesting projects I have worked on
 * Piloted a project integrating FigShare, Dryad, and other data repositories into Wiley author and publishing workflows
 
 **At IEEE**
-* Author disambiguaion
-* Open Access Megajournal
+* Author disambiguaion project
+* Open Access Megajournal project
 
 **At UTSW Medical Center Library**
 * Dallas Medical Images project

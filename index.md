@@ -4,7 +4,7 @@ title: Matt Zimmerman, Digital Publishing
 ---
 # Matt Zimmerman
 
-My name is Matt Zimmerman. I am an independent product managment consultant with a specialiy in publishing platforms
+Hi. I'm Matt Zimmerman. I am a product manager wit experience in web-publishing platforms, APIs, and XML.
 
 Here are some interesting projects I have worked on
 ## At The Springer Publishing Company

@@ -28,6 +28,7 @@ interface. Additionally, I developed a system for sales representatives to provi
 access to eBooks, eliminating the need to send print textbooks via mail, saving time and costs. I
 also streamlined the eCommerce data import process, resulting in doubled marketing email open
 and click rates.
+
 **Online Platform Manager**  
 **9/2016 to 9/2019**
 

@@ -24,7 +24,7 @@ Here are some interesting projects I have worked on
 * Open Access Megajournal
 
 **At UTSW Medical Center Library**
-* Dallas Medical Images
+* Dallas Medical Images project
 
 **At New York University**
 * Margaret Sanger Papers Project

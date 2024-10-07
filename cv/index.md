@@ -3,7 +3,7 @@ layout: default
 title: Matt Zimmerman, CV
 ---
 **Matthew Zimmerman**
-542 Jacksonville Road
+542 Jacksonville Rd
 Warminster, PA, 18974
 215-262-4796
 matt.zimmerman@gmail.com

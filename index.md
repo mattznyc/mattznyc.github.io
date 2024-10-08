@@ -19,8 +19,8 @@ Here are some interesting projects I have worked on:
 * Piloted a project integrating [FigShare](https://figshare.com/), [Dryad](https://datadryad.org/stash), and other data repositories into Wiley author and publishing workflows
 
 ## At IEEE 
-* 
-* Open Access Megajournal project
+* Improved the "search by author" feature by overseeing an "author disambiguation" project (i.e. recognizing that J.A. Smith, John Adams Smith, and John A. Smith all refer to a single author and should be included in the search results)
+* Launched an Open Access Megajournal, [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
 
 ## At UTSW Medical Center Library
 * Dallas Medical Images project

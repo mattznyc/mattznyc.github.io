@@ -7,7 +7,7 @@ title: Matt Zimmerman, CV
 Warminster, PA, 18974  
 215-262-4796  
 matt.zimmerman@gmail.com  
-https://www.linkedin.com/in/mattzimm/
+[https://www.linkedin.com/in/mattzimm/](https://www.linkedin.com/in/mattzimm/)
 ## Summary
 Project manager with over 12 years of experience in developing and managing digital products
 for leading academic publishers. Proven success in improving user experiences and

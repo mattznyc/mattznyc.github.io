@@ -8,7 +8,7 @@ Hi. I'm Matt Zimmerman. I'm a product manager with experience in web-publishing 
 
 Here are some interesting projects I have worked on:
 
-## At The Springer Publishing Company**
+## At The Springer Publishing Company
 
 Laucnhed Springer Publishing Company's first eBook and ejournal platform [Springer Publishng Connect](http://connect.springerpub.com)
 

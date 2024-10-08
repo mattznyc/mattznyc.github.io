@@ -23,7 +23,7 @@ Here are some interesting projects I have worked on:
 * Launched an Open Access Megajournal, [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
 
 ## At UTSW Medical Center Library
-* Dallas Medical Images project
+* With funding from the National Library launched the [Medical Milestones in Dallas](https://utswlibrary.omeka.net/exhibits/show/milestones/intro) web exhibit.
 
 ## At New York University
-* Margaret Sanger Papers Project
+* Devolped a digital edition of the Speeches and Writngs of Margaret Sanger with the [Margaret Sangers Papers Project](https://m-sanger.org/welcome). The system allowed for ingestion of XML documents that were parsed into a MYSQL database for search and retrieval. The [current version](https://m-sanger.org/digi) of the project has since been updated to newer technology.

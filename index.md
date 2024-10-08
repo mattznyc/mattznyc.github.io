@@ -27,3 +27,6 @@ Here are some interesting projects I have worked on:
 
 ## At New York University
 * Devolped a digital edition of the Speeches and Writngs of Margaret Sanger with the [Margaret Sangers Papers Project](https://m-sanger.org/welcome). The system allowed for ingestion of XML documents that were parsed into a MYSQL database for search and retrieval. The [current version](https://m-sanger.org/digi) of the project has since been updated to newer technology.
+
+  ## Some other things I have experience with
+  XML, XSLT, BaseX, Google Analytics, Google Data Studio, Google Tag Manager, Microsoft Power Apps, Jira, Trello

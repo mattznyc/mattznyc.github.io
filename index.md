@@ -23,10 +23,10 @@ Here are some interesting projects I have worked on:
 * Launched an Open Access Megajournal, [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
 
 ## At UTSW Medical Center Library
-* With funding from the National Library launched the [Medical Milestones in Dallas](https://utswlibrary.omeka.net/exhibits/show/milestones/intro) web exhibit.
+* With funding from the National Library of Medicine launched the [Medical Milestones in Dallas](https://utswlibrary.omeka.net/exhibits/show/milestones/intro) web exhibit.
 
 ## At New York University
-* Devolped a digital edition of the Speeches and Writngs of Margaret Sanger with the [Margaret Sangers Papers Project](https://m-sanger.org/welcome). The system allowed for ingestion of XML documents that were parsed into a MYSQL database for search and retrieval. The [current version](https://m-sanger.org/digi) of the project has since been updated to newer technology.
+* Devolped a digital edition of the *Speeches and Writngs of Margaret Sanger* with the [Margaret Sangers Papers Project](https://m-sanger.org/welcome). The system allowed for ingestion of XML documents that were parsed into a MYSQL database for search and retrieval. The [current version](https://m-sanger.org/digi) of the project has since been updated to newer technology.
 
 ## Some other things I have experience with
-XML, XSLT, BaseX, Google Analytics, Google Data Studio, Google Tag Manager, Microsoft Power Apps, Jira, Trello
+XML, XSLT, BaseX, Oxygen, Google Analytics, Google Data Studio, Google Tag Manager, Microsoft Power Apps, Azure, Sharepoint, Jira, Trello

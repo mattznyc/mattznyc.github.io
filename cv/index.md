@@ -9,7 +9,7 @@ Warminster, PA, 18974
 matt.zimmerman@gmail.com  
 [https://www.linkedin.com/in/mattzimm/](https://www.linkedin.com/in/mattzimm/)
 ## Summary
-Project manager with over 12 years of experience in developing and managing digital products
+Project manager with over 10 years of experience in developing and managing digital products
 for leading academic publishers. Proven success in improving user experiences and
 implementing strategic technology solutions to enhance operational efficiencies and revenue
 generation.

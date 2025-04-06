@@ -9,9 +9,9 @@ Hi. I'm Matt Zimmerman. I'm a product manager with experience in web-publishing 
 Here are some interesting projects I have worked on:
 
 ## At The Springer Publishing Company
-* Laucnhed [Springer Publishing Company's](https://www.springerpub.com/) first eBook and ejournal platform [Springer Publishng Connect](http://connect.springerpub.com)
-* With [Dylan Wooters](https://dylanwooters.com/index.html) integrated SalesForce and Springer Publishng Connect so sales reps could grant instant ebook access to prospective text book adopters, replacing the costly and slow hard copy via the mail process.
-* Also with [Dylan Wooters](https://dylanwooters.com/index.html), deployed an API that ran hourly imports of customer transaction data from four seperate ecommerce systems into Salesforce. This replaced a weekly manual process and lead to a dobubling of marketing email open and click rates.
+* Launched [Springer Publishing Company's](https://www.springerpub.com/) first eBook and ejournal platform [Springer Publishing Connect](http://connect.springerpub.com)
+* Integrated SalesForce and Springer Publishng Connect so sales reps could grant instant ebook access to prospective textbook adopters, replacing the costly and slow hard copy via the mail process.
+* Deployed an API that ran hourly imports of customer transaction data from four separate ecommerce systems into Salesforce. This replaced a weekly manual process and lead to a doubling of marketing email open and click rates.
 * Used [Microsoft Power Apps](https://www.microsoft.com/en-us/power-platform/products/power-apps) to automate a book cover image upload process.
 
 ## At John Wiley and Sons
